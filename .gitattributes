@@ -1,4 +1,2 @@
 * text=auto
-*.php linguist-vendored
-*.php linguist-vendored
-*.php linguist-vendored
+*.blade.php linguist-vendored
