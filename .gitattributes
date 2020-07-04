@@ -1,3 +1,4 @@
 *.css linguist-detectable=false
 *.java linguist-detectable=false
+*.js linguist-detectable=false
 *.blade.php linguist-vendored=true
